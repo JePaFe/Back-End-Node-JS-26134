@@ -44,7 +44,7 @@ console.log(args);
 //   }
 // }
 
-// const product = { title: "New Product", price: 29.99 };
+const product = { title: "New Product", price: 29.99 };
 
 fetch("https://fakestoreapi.com/products", {
   method: "POST",
