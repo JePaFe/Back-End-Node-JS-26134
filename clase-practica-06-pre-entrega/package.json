@@ -1,0 +1,13 @@
+{
+  "name": "clase-practica-06-pre-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Paul Ferreira",
+  "license": "MIT",
+  "type": "module"
+}
